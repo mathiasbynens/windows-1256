@@ -1,6 +1,6 @@
 # windows-1256 [![Build status](https://travis-ci.org/mathiasbynens/windows-1256.svg?branch=master)](https://travis-ci.org/mathiasbynens/windows-1256) [![Dependency status](https://gemnasium.com/mathiasbynens/windows-1256.svg)](https://gemnasium.com/mathiasbynens/windows-1256)
 
-_windows-1256_ is robust JavaScript implementation of [the windows-1256 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#windows-1256).
+_windows-1256_ is a robust JavaScript implementation of [the windows-1256 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#windows-1256).
 
 This encoding is known under the following names: cp1256, windows-1256, x-cp1256, and x-cp1256.
 
