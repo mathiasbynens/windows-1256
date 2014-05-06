@@ -2,7 +2,7 @@
 
 _windows-1256_ is a robust JavaScript implementation of [the windows-1256 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#windows-1256).
 
-This encoding is known under the following names: cp1256, windows-1256, x-cp1256, and x-cp1256.
+This encoding is known under the following names: cp1256, windows-1256, and x-cp1256.
 
 ## Installation
 
