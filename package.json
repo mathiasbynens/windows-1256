@@ -7,8 +7,11 @@
 	"keywords": [
 		"codec",
 		"decoder",
+		"decoding",
 		"encoder",
+		"encoding",
 		"legacy",
+		"legacy-encoding",
 		"cp1256",
 		"windows-1256",
 		"x-cp1256"
