@@ -1,4 +1,4 @@
-# windows-1256 [![Build status](https://travis-ci.org/mathiasbynens/windows-1256.svg?branch=master)](https://travis-ci.org/mathiasbynens/windows-1256) [![Code coverage status](http://img.shields.io/coveralls/mathiasbynens/windows-1256/master.svg)](https://coveralls.io/r/mathiasbynens/windows-1256) [![Dependency status](https://gemnasium.com/mathiasbynens/windows-1256.svg)](https://gemnasium.com/mathiasbynens/windows-1256)
+# windows-1256 [![Build status](https://travis-ci.org/mathiasbynens/windows-1256.svg?branch=master)](https://travis-ci.org/mathiasbynens/windows-1256) [![Code coverage status](https://coveralls.io/repos/mathiasbynens/windows-1256/badge.svg)](https://coveralls.io/r/mathiasbynens/windows-1256) [![Dependency status](https://gemnasium.com/mathiasbynens/windows-1256.svg)](https://gemnasium.com/mathiasbynens/windows-1256)
 
 _windows-1256_ is a robust JavaScript implementation of [the windows-1256 character encoding as defined by the Encoding Standard](http://encoding.spec.whatwg.org/#windows-1256).
 
@@ -6,7 +6,7 @@ This encoding is known under the following names: cp1256, windows-1256, and x-cp
 
 ## Installation
 
-Via [npm](http://npmjs.org/):
+Via [npm](https://www.npmjs.com/):
 
 ```bash
 npm install windows-1256
@@ -30,7 +30,7 @@ In a browser:
 <script src="windows-1256.js"></script>
 ```
 
-In [Narwhal](http://narwhaljs.org/), [Node.js](http://nodejs.org/), and [RingoJS](http://ringojs.org/):
+In [Node.js](https://nodejs.org/), [io.js](https://iojs.org/), [Narwhal](http://narwhaljs.org/), and [RingoJS](http://ringojs.org/):
 
 ```js
 var windows1256 = require('windows-1256');
@@ -106,7 +106,7 @@ var text = windows1256.decode(encodedData, {
 
 ## Support
 
-_windows-1256_ is designed to work in at least Node.js v0.10.0, Narwhal 0.3.2, RingoJS 0.8-0.9, PhantomJS 1.9.0, Rhino 1.7RC4, as well as old and modern versions of Chrome, Firefox, Safari, Opera, and Internet Explorer.
+_windows-1256_ is designed to work in at least Node.js v0.10.0, io.js v1.0.0, Narwhal 0.3.2, RingoJS 0.8-0.11, PhantomJS 1.9.0, Rhino 1.7RC4, as well as old and modern versions of Chrome, Firefox, Safari, Opera, and Internet Explorer.
 
 ## Unit tests & code coverage
 
@@ -118,7 +118,7 @@ To generate the code coverage report, use `grunt cover`.
 
 ## Notes
 
-[Similar modules for other single-byte legacy encodings are available.](https://www.npmjs.org/browse/keyword/legacy-encoding)
+[Similar modules for other single-byte legacy encodings are available.](https://www.npmjs.com/browse/keyword/legacy-encoding)
 
 ## Author
 
