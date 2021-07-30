@@ -1,4 +1,4 @@
-# windows-1256 [![windows-1256 on npm](https://img.shields.io/npm/v/windows-1256)](https://www.npmjs.com/package/windows-1256)
+# windows-1256 [![Build status](https://github.com/mathiasbynens/windows-1256/workflows/run-checks/badge.svg)](https://github.com/mathiasbynens/windows-1256/actions?query=workflow%3Arun-checks) [![windows-1256 on npm](https://img.shields.io/npm/v/windows-1256)](https://www.npmjs.com/package/windows-1256)
 
 _windows-1256_ is a robust JavaScript implementation of [the windows-1256 character encoding as defined by the Encoding Standard](https://encoding.spec.whatwg.org/#windows-1256).
 
